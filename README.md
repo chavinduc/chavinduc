@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chavindu Chandrasekara(@chavinduc)
-- 👀 I’m interested in Video games, Movies and TV series and travelling
+- 👀 I’m interested in Video games, Movies, TV series and Travelling
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: will be updated soon
